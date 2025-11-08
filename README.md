@@ -26,7 +26,7 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Jackson's GitHub stats]([https://github-readme-stats.vercel.app/api?username=JacksonHertel&show_icons=true&theme=tokyonight](https://github.com/Jackson-Hertel/toki-backend.git))
+![Jackson's GitHub stats](https://github.com/Jackson-Hertel/toki-backend.git)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonHertel&layout=compact&theme=tokyonight)
 
 ---
