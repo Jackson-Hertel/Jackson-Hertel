@@ -34,5 +34,18 @@
 
 ---
 
+## 💻 Projeto em Destaque
+
+### 🔷 [TOKI](https://github.com/Jackson-Hertel/TOKI)
+Sistema web desenvolvido em Java e HTML/CSS/JS com banco H2, criado para gerenciamento acadêmico (TCC).
+
+🔹 **Front-end:** HTML, CSS e JavaScript  
+🔹 **Back-end:** Java (Servlets) com H2 Database  
+🔹 **Objetivo:** Permitir cadastro e gerenciamento de usuários e eventos  
+
+📸 *Veja o código completo clicando no nome acima!*
+
+---
+
 
 ⭐ *“A prática leva à perfeição — e a curiosidade leva à inovação.”*
