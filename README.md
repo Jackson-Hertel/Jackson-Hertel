@@ -26,8 +26,11 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Jackson's GitHub stats](https://github.com/Jackson-Hertel/toki-backend.git)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonHertel&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacksonHertel&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonHertel&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
