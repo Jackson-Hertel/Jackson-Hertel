@@ -27,10 +27,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacksonHertel&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonHertel&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-hertel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
